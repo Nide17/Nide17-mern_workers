@@ -56,7 +56,7 @@ class AppNavbar extends Component {
                             </NavLink>
                             </NavItem>
 
-                            <NavItem>
+                            {/* <NavItem>
                                 <NavLink href="/">
                                     Login
                             </NavLink>
@@ -72,7 +72,7 @@ class AppNavbar extends Component {
                                 <NavLink href="/">
                                     Upload
                             </NavLink>
-                            </NavItem>
+                            </NavItem> */}
 
                         </Nav>
 
