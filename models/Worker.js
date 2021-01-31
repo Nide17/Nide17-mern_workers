@@ -18,4 +18,5 @@ const WorkerSchema = new Schema({
 });
 
 //worker: the name of this model
-module.exports = Worker = mongoose.model('worker', WorkerSchema);
+// module.exports = Worker = mongoose.model('worker', WorkerSchema);
+module.exports = mongoose.model('worker', WorkerSchema);
